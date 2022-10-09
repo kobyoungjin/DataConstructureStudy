@@ -1,1 +1,3 @@
-# DataConstructureStudy
+# 자료구조 학술회
+1주차 스택, 큐(원형 큐)
+2주차 재귀, 리스트
